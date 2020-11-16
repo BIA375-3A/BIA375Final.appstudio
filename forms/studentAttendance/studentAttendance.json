@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "0",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "drpClass.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "rbtnAttendance.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "btnReset.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblWelcome.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "CmUpload.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblDocument.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "inpDate.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "0",
+  "id": "studentAttendance",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "studentAttendance.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": "auto"
+}
