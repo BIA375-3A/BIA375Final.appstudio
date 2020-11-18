@@ -7,7 +7,10 @@ let query4 = ""
 let query5 = ""
 results = ""
 let allData = []
-let cheadf = '  '
+let cheadf = ''
+let picBase64 = ""
+let pic1 = ""
+let userData = ''
 //pw = "Hoffenheim1899!"
 
 
@@ -54,14 +57,6 @@ drpClass.onclick = function(s) {
     lblMessage.value = s
   }
 }
-
-//Select Class Attendance  yes/no
-rbtnAttendance.onclick = function() {
-  let resultAttendance = $("input[name=rbtnAttendance]:checked").prop("value")
-  lblMessage.value = resultAttendance
-  RATT = lblMessage.value
-}
-
 
 function formatDate(date) {
   let d = date,
@@ -160,3 +155,4 @@ btnReset.onclick = function() {
   lblMessage.value = " "
 
 }
+

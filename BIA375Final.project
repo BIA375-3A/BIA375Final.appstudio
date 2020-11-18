@@ -34,6 +34,14 @@
             "studentAttendance",
             "studentAttendance.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Calander",
+            "Calander.json"
+          ]
         }
       ],
       "configxml": null,

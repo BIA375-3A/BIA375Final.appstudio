@@ -61,15 +61,6 @@
         "forms",
         "studentAttendance",
         "Elements",
-        "CmUpload.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "studentAttendance",
-        "Elements",
         "lblDocument.json"
       ]
     },
@@ -89,6 +80,15 @@
         "studentAttendance",
         "Elements",
         "inpDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "inptFile.json"
       ]
     }
   ],
