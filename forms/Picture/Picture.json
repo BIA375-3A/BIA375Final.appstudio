@@ -1,12 +1,13 @@
 {
   "!type": "Form",
   "HTML": null,
+  "action": "",
   "attributes": "",
   "background": "",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
-  "borderWidth": "0",
+  "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
   "children": [
@@ -14,115 +15,110 @@
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "drpClass.json"
+        "Image1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "rbtnAttendance.json"
+        "lblPicMsg.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "btnReset.json"
+        "PictureBox1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "btnSubmit.json"
+        "txtGetPicture.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "lblWelcome.json"
+        "TitleBar1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "lblDocument.json"
+        "btnSubmitImage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "lblMessage.json"
+        "LblPicture.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "inpDate.json"
+        "Button2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "studentAttendance",
+        "Picture",
         "Elements",
-        "inptFile.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "studentAttendance",
-        "Elements",
-        "Button1.json"
+        "lblMessagePic.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 500,
+  "designWidth": 330,
   "expanded_pmp": null,
-  "fullScreen": "true",
-  "height": "0",
-  "id": "studentAttendance",
+  "fullScreen": "false",
+  "height": 500,
+  "id": "Picture",
   "language": "JavaScript",
-  "left": "0",
+  "left": 0,
   "locked": false,
+  "method": "",
   "modal": "false",
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "studentAttendance.onshow()",
+  "onshow": "",
+  "onsubmit": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
+  "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
+  "scrolling": "false",
   "setFocusID": "",
-  "style": "",
+  "style": "1",
   "theme": "",
-  "top": "0",
-  "width": "auto"
+  "top": 0,
+  "width": 330
 }
