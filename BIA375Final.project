@@ -39,8 +39,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Picture",
-            "Picture.json"
+            "email",
+            "email.json"
           ]
         }
       ],

@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 48,
+  "height": "auto",
   "hidden": "",
-  "id": "lblMessagePic",
+  "id": "Label1",
   "labelStyle": "text",
-  "left": 24,
+  "left": 45,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 352,
-  "value": "",
-  "width": 208
+  "top": 365,
+  "value": "Username: User; Password: Test",
+  "width": "auto"
 }

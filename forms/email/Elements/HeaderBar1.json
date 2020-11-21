@@ -9,18 +9,8 @@
   "bottom": "auto",
   "cached_js": "",
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Picture",
-        "Elements",
-        "Label1Copy.json"
-      ]
-    }
-  ],
-  "class": "default",
+  "children": [],
+  "class": "",
   "color": "",
   "display": "",
   "expanded_pmp": null,
@@ -32,9 +22,9 @@
   "fontWeight": "bold",
   "height": "40",
   "hidden": "",
-  "id": "TitleBar1",
+  "id": "HeaderBar1",
   "justifyContent": "",
-  "left": 28,
+  "left": 37,
   "onclick": "",
   "onmousedown": "",
   "onmousemove": "",
@@ -48,7 +38,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "text": "Setting",
-  "top": 22,
-  "width": 0
+  "text": "Use the Camera",
+  "top": 9,
+  "width": "100%"
 }

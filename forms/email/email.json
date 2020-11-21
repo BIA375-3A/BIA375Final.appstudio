@@ -15,25 +15,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Picture",
-        "Elements",
-        "Image1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Picture",
-        "Elements",
-        "lblPicMsg.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Picture",
+        "email",
         "Elements",
         "PictureBox1.json"
       ]
@@ -42,64 +24,46 @@
       "!type": "External",
       "file": [
         "forms",
-        "Picture",
+        "email",
         "Elements",
-        "txtGetPicture.json"
+        "HeaderBar1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Picture",
+        "email",
         "Elements",
-        "TitleBar1.json"
+        "btnMail.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Picture",
+        "email",
         "Elements",
-        "btnSubmitImage.json"
+        "btnRotate.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Picture",
+        "email",
         "Elements",
-        "LblPicture.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Picture",
-        "Elements",
-        "Button2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Picture",
-        "Elements",
-        "lblMessagePic.json"
+        "Camera1.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 500,
-  "designWidth": 330,
+  "designHeight": 460,
+  "designWidth": 320,
   "expanded_pmp": null,
-  "fullScreen": "false",
-  "height": 500,
-  "id": "Picture",
+  "fullScreen": "true",
+  "height": 460,
+  "id": "email",
   "language": "JavaScript",
   "left": 0,
   "locked": false,
@@ -117,8 +81,8 @@
   "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
   "scrolling": "false",
   "setFocusID": "",
-  "style": "1",
+  "style": "",
   "theme": "",
   "top": 0,
-  "width": 330
+  "width": 320
 }

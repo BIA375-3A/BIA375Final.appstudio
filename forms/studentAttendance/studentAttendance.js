@@ -158,5 +158,5 @@ btnReset.onclick = function() {
 
 
 Button1.onclick=function(){
-  ChangeForm(Picture)
+  ChangeForm(email)
 }
