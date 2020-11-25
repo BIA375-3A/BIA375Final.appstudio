@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "danger",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 48,
   "hidden": "",
   "id": "lblMessage",
   "labelStyle": "text",
-  "left": 22,
+  "left": 16,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 427,
-  "value": "Label",
-  "width": 263
+  "top": 416,
+  "value": "",
+  "width": 304
 }

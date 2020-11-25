@@ -1,11 +1,11 @@
  //Send a picture to your teacher
 
  rotation = 0;
-
+// format for the email that will pop up
  btnMail.onclick = function() {
      location = "mailto:" + encodeURI("cindycc@gmail.com") + "?subject=" + encodeURI("Question") + "&body=" + "<img src='" + PictureBox1.toDataURL() + "'/>";
  };
-
+// roate the photo if taken horisontal
  btnRotate.onclick = function() {
      var pb;
      rotation = (rotation + 90) % 360;
@@ -23,3 +23,4 @@
      NSB.drawImageIOSFix(pb, imgObj, 0, 0, 0, 0, -150, -112, 300, 225);
      pb.restore();
  };
+ 

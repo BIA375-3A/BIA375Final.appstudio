@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "Blue",
+  "backgroundColor": "#3b5998",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "BtnSubmit",
-  "left": 234,
+  "left": 240,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 305,
+  "top": 320,
   "value": "Submit",
   "width": "80"
 }

@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "white",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -12,14 +12,14 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": "35",
+  "fontSize": "30",
   "fontStyle": "",
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
   "id": "LblLogin",
   "labelStyle": "text",
-  "left": 112,
+  "left": 118,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 112,
+  "top": 64,
   "value": "Login",
   "width": "auto"
 }

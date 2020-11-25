@@ -14,99 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "LblCreighton.json"
+        "btnLogOut.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "LblLogin.json"
+        "btnViewStats.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "LblUsername.json"
+        "hdrCreighton2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "LblPassword.json"
+        "lblthankYou.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "Messagek.json"
+        "Image1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Login",
+        "confirmationPage",
         "Elements",
-        "InpUsername.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Login",
-        "Elements",
-        "InpPassword.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Login",
-        "Elements",
-        "BtnClear.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Login",
-        "Elements",
-        "BtnSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Login",
-        "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Login",
-        "Elements",
-        "Image2.json"
+        "lblWelcome2.json"
       ]
     }
   ],
@@ -116,13 +71,13 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Login",
+  "id": "confirmationPage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
   "modal": "false",
   "onhide": "",
-  "onkeypress": "",
+  "onkeypress": "confirmationPage.onkeypress()",
   "onresize": "",
   "onshow": "",
   "openMode": "none",

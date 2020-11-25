@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#3b5998",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -61,15 +61,6 @@
         "forms",
         "studentAttendance",
         "Elements",
-        "lblDocument.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "studentAttendance",
-        "Elements",
         "lblMessage.json"
       ]
     },
@@ -97,7 +88,34 @@
         "forms",
         "studentAttendance",
         "Elements",
-        "Button1.json"
+        "Header1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblAtendance.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "studentAttendance",
+        "Elements",
+        "lblDocument.json"
       ]
     }
   ],
@@ -106,7 +124,7 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": "0",
+  "height": "460",
   "id": "studentAttendance",
   "language": "JavaScript",
   "left": "0",
@@ -124,5 +142,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": "auto"
+  "width": "320"
 }

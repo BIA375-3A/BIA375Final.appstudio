@@ -41,7 +41,3 @@ BtnClear.onclick=function(){
   InpPassword.value = ''
   Messagek.value = ''  
 }
-
-Button1Copy.onclick=function(){
-  ChangeForm(studentAttendance)
-}

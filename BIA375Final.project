@@ -42,6 +42,14 @@
             "email",
             "email.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "confirmationPage",
+            "confirmationPage.json"
+          ]
         }
       ],
       "configxml": null,
@@ -65,6 +73,8 @@
       "extraheaders": null,
       "firstform": "Login",
       "fontFamily": "system",
+      "googlePlayKey": "certificates/google.json",
+      "googlePlayTrack": "production",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
       "id": "Team3AFinalProject",
@@ -75,6 +85,8 @@
       "iosDistP12Password": "mypassword",
       "iosDistribution": "certificates/distribution.mobileprovision",
       "iosPackageType": "app-store",
+      "itunesAccount": "",
+      "itunesAppPassword": "",
       "jqWidgetsLicence": "",
       "language": "JavaScript",
       "manifest": null,
@@ -88,11 +100,13 @@
       "pathTo_bootstrap": "",
       "pathTo_jqWidgets": "https://jqwidgets.com/public/jqwidgets/",
       "phoneGapBuildCounter": "0",
+      "phoneGapBuildID": "",
       "phoneGapIcon": "",
       "phoneGapSplash": "",
       "phoneGapStatusBarColor": "#000000",
       "phoneGapStatusBarOverlay": "false",
       "phoneGapStatusBarStyle": "lightcontent",
+      "phoneGapVersion": "",
       "rtl": "",
       "script": null,
       "statusbar": "black-translucent",
@@ -104,7 +118,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "ZKCOvA",
+      "voltAppId": "5QCW3q",
       "voltDomain": ""
     }
   ],
